@@ -1,0 +1,9 @@
+Assalamualaikum wr.wb
+Ok langsung ke cara penggunaan :
+1. Buka web server lalmu create database dengan nama "alfariscorp".
+2. Masukan mysql yang ada di dalam folder ./Aplikasi
+3. Terakhir langsung main.
+Usernem dan Password "Admin"
+tanpa tanda kutip.
+Terima kasih
+Team Prakerin SMKN1 Majalengka
